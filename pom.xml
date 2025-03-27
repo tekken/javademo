@@ -20,7 +20,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/tekken/javademo.git</developerConnection>
-    <tag>javademo-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
